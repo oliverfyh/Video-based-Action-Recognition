@@ -45,7 +45,7 @@ CONFIG:
 
   MODEL:
     NAME: 'ircsn_v2_resnet152_f32s2_kinetics400'
-    PRETRAINED: False
+    PRETRAINED: True
 
   LOG:
     BASE_PATH: './logs/ircsn_v2_resnet152_f32s2_kinetics400'
